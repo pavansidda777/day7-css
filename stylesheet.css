@@ -1,0 +1,227 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.search{
+    width: 80%;
+    margin: auto;
+    height: 70px;
+    border: 2.5px solid;
+    margin-top: 2%;
+    box-shadow: 0px 0px 15px #00000080, 0px 0px 15px 8px rgb(234, 130, 147) inset;
+    text-align: center;
+    padding: 0.5%;
+    font-size: 30px;
+    padding-top: 1%;
+}
+.box{
+    width: 16%;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 2%;
+    margin-right: 6%;
+    background: #e63939;
+    box-shadow: 6px 6px 5px 6.5px #00000080;
+    text-align: center;
+    padding: 0.5%;
+    font-size: 40px;
+    padding-top: 8%;
+    transition: all 0.3s ease;
+    margin-bottom: 4%;
+}
+.box:hover{
+    background: pink;
+}
+.first{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.fourth{
+    display: flex;
+}
+.ali{
+    margin-left: 6%;
+    margin-top: 3%;
+}
+#ho:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+      
+}
+#ho1:hover{
+    transform: scale(1.1);
+    background: #e63939;  
+    font-family: "Silkscreen", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+#ho2:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Montserrat Underline", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+    
+#ho3:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Agu Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "MORF" 0;
+
+}
+#ho4:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Playwrite AU NSW Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+#ho5:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Mr Dafoe", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#ho6:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Monoton", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#ho7:hover{
+    transform: scale(1.1);
+    background: #45fa03;
+    font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#ho8:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Eater", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#ho9:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Monoton", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#ho10:hover{
+    transform: scale(1.1);
+    background: #31f505;
+    font-family: "Barriecito", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#ho11:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Press Start 2P", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+}
+#ho12:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+#ho13:hover{
+    transform: scale(1.1);
+    background: #e63939;
+    font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#ho14:hover{
+    transform: scale(1.1);
+    font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+    font-size: 30px;
+    
+}
+#ho15:hover{
+    transform: scale(1.1);
+    font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+
+#ho{
+    background: greenyellow;
+}
+#ho1{
+    background: blueviolet;
+}
+#ho2{
+    background: gray;
+}
+#ho3{
+    background: lightseagreen;
+}
+#ho4{
+    background: orchid;
+}
+#ho5{
+    background: whitesmoke;
+}
+#ho6{
+    background: goldenrod;
+}
+#ho8{
+    background: peru;
+}
+#ho9{
+    background: palevioletred;
+}
+#ho10{
+    background: olivedrab;
+}
+#ho11{
+    background: gray;
+}
+#ho12{
+    background: whitesmoke;
+}
+#ho13{
+    background: lightseagreen;
+}
+#ho14{
+    background: #9a9999;
+}
+#ho15{
+    background-color: #e63939;
+}
